@@ -37,7 +37,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=vikrant-k09&theme=radical" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikrant-k09&theme=dracula" alt="Contribution Graph"/>
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikrant-k09&theme=dracula" alt="Contribution Graph"/> -->
 </p>
 
 ---
