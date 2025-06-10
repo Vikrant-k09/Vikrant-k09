@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </p>
 
-<h1 align="center">Hey there! I'm Vikrant</h1>
+<h1 align="center">Hey there! I'm Vik</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 -->
